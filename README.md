@@ -1,2 +1,3 @@
 # Weather website
- Tells the 
+ Tells the Weather based on zipcode
+ 
