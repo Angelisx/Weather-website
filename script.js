@@ -2,7 +2,7 @@
 
 
 
-const url = "http://api.openweathermap.org/data/2.5/weather?zip=11235,us&appid=ad56f041d195cd2846790c71286da726";
+const url = "https://api.openweathermap.org/data/2.5/weather?zip=11235,us&appid=ad56f041d195cd2846790c71286da726";
 
 
 $.ajax({
