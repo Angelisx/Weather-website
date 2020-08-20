@@ -3,17 +3,29 @@ html {
     background-repeat: no-repeat;
     background-size: cover;
     width: 100%;
-    min-height: 100%
-    
-}
-
-.text{
+    min-height: 100%;
     font-family: 'Ubuntu', sans-serif;
     text-transform: capitalize;
 }
 
+
+.data {
+    display: -webkit-flex;
+    display: flex;
+  }
+
+.text {
+    -webkit-flex: 1;
+    -ms-flex: 1;
+    flex: 1;
+    padding: 10px;
+    
+  }
+
+
 .header{
     text-align: center;
+    position: sticky;
 }
 .data{
     margin-left: 25vw
