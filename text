@@ -8,4 +8,4 @@ https://api.openweathermap.org/data/2.5/weather?zip={zipcode},us&appid=ad56f041d
 
 
 Week forecast
-https://api.openweathermap.org/data/2.5/forecast?zip=11238,us&appid=ad56f041d195cd2846790c71286da726
+https://api.openweathermap.org/data/2.5/forecast?zip={zipcode},us&appid=ad56f041d195cd2846790c71286da726
